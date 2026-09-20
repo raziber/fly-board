@@ -1,0 +1,3 @@
+flybrain[gpu]==0.1.0
+numpy
+scikit-learn
