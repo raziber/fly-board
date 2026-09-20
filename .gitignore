@@ -1,1 +1,4 @@
-.venv
+.venv/
+.fly_cache/
+__pycache__/
+*.pyc
